@@ -1,0 +1,5 @@
+session.jsonl
+session-revision.jsonl
+transcripts.tar.gz
+__pycache__/
+test/
